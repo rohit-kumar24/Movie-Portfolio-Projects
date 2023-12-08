@@ -1,6 +1,4 @@
 # Movie-Portfolio-Projects
-Projects related to movies, spanning various genres, budgets, and countries.
-
 Welcome to the Movie Projects repository! This repository contains a collection of projects related to movies, 
 spanning various genres, budgets, and countries. Whether you're interested in analyzing box office gross, exploring the impact of directors,
 or diving into the world of movie ratings, this repository has something for everyone.
@@ -47,3 +45,11 @@ Explore the relationship between runtime and box office success.
 
 
 
+# Technologies Used
+Python: The analysis and visualization are conducted using the Python programming language.
+
+Pandas: For data manipulation and preprocessing.
+
+Seaborn and Matplotlib: Visualization libraries for creating insightful charts.
+
+Jupyter Notebooks: Interactive notebooks used for exploring and documenting the analysis process.
